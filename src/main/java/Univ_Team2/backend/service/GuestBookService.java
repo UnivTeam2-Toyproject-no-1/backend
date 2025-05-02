@@ -1,8 +1,8 @@
-package Univ_Team2.Backend_Team2.service;
+package Univ_Team2.backend.service;
 
-import Univ_Team2.Backend_Team2.domain.Article;
-import Univ_Team2.Backend_Team2.dto.AddArticleRequest;
-import Univ_Team2.Backend_Team2.repository.GuestBookRepository;
+import Univ_Team2.backend.domain.Article;
+import Univ_Team2.backend.dto.AddArticleRequest;
+import Univ_Team2.backend.repository.GuestBookRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

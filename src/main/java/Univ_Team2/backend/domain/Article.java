@@ -1,11 +1,10 @@
-package Univ_Team2.Backend_Team2.domain;
+package Univ_Team2.backend.domain;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.hibernate.annotations.ColumnDefault;
 
 @Entity
 @Getter

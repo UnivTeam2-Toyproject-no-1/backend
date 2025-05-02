@@ -1,6 +1,6 @@
-package Univ_Team2.Backend_Team2.dto;
+package Univ_Team2.backend.dto;
 
-import Univ_Team2.Backend_Team2.domain.Article;
+import Univ_Team2.backend.domain.Article;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

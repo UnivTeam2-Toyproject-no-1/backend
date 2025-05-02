@@ -1,9 +1,9 @@
-package Univ_Team2.Backend_Team2.controller;
+package Univ_Team2.backend.controller;
 
-import Univ_Team2.Backend_Team2.dto.ArticleResponse;
-import Univ_Team2.Backend_Team2.service.GuestBookService;
-import Univ_Team2.Backend_Team2.domain.Article;
-import Univ_Team2.Backend_Team2.dto.AddArticleRequest;
+import Univ_Team2.backend.dto.ArticleResponse;
+import Univ_Team2.backend.service.GuestBookService;
+import Univ_Team2.backend.domain.Article;
+import Univ_Team2.backend.dto.AddArticleRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

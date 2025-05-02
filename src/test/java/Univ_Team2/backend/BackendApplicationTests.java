@@ -1,10 +1,10 @@
-package Univ_Team2.Backend_Team2;
+package Univ_Team2.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendTeam2ApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	void contextLoads() {
