@@ -2,7 +2,9 @@ package Univ_Team2.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//HElo
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
+
+@EnableJpaAuditing
 @SpringBootApplication
 public class BackendApplication {
 
